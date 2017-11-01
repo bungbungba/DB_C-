@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1.c" />
+    <ClCompile Include="10.c" />
     <ClCompile Include="2.c" />
     <ClCompile Include="3.c" />
     <ClCompile Include="4.c" />
